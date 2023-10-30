@@ -15,3 +15,10 @@ To confirm the installation, open the Start menu, search for cmd to open a comma
 
 `C:\> aws --version
 aws-cli/2.10.0 Python/3.11.2 Windows/10 exe/AMD64 prompt/off`
+
+
+Commands:
+
+`aws configure`
+
+`aws ec2 describe-instances`
